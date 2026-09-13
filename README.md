@@ -1,4 +1,4 @@
-# Prodigy InfoTech Data Science Internship Task-1:
+
 <h1>
 In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.</h1>
 
